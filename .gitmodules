@@ -1,0 +1,3 @@
+[submodule "rg-react"]
+	path = rg-react
+	url = https://voronin_roman@bitbucket.org/rightguys/rg-react.git
